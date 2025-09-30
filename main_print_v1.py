@@ -1,4 +1,4 @@
-git config --global user.name "Hyun-Ho Choi“
+
 # 1. 변수 선언
 name = "Alice"
 age = 25
